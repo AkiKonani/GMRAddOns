@@ -2,6 +2,8 @@
 
 AddOns that work with GMR, GMR plugins and GMR profiles.
 
+See also [Bot](https://github.com/AkiKonani/Bot).
+
 ## Installation
 
 ### Cloning the respository
