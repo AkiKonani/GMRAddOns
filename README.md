@@ -1,8 +1,8 @@
 # GMR AddOns
 
-AddOns that work with GMR, GMR plugins and GMR profiles.
+__The development continues in the repository [Bot](https://github.com/AkiKonani/Bot).__
 
-See also [Bot](https://github.com/AkiKonani/Bot).
+AddOns that work with GMR, GMR plugins and GMR profiles.
 
 ## Installation
 
